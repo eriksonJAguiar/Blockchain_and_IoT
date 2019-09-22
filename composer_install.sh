@@ -7,6 +7,8 @@ chmod u+x prereqs-ubuntu.sh
 
 ./prereqs-ubuntu.sh
 
+sudo apt-get install npm
+
 npm install -g composer-cli@0.19
 
 npm install -g composer-rest-server@0.19
