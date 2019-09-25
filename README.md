@@ -28,7 +28,9 @@ Temos os seguintes componentes:
   - Participant
   - Transaction
 * permission.acl
-  - Query
+  - permission
+* Query
+  - Query Composer
 * logic.js
   - Transaction logic
   
