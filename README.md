@@ -1,4 +1,4 @@
-# Minicurso Blockchain e Internet das Coisas SEMCOM 22 - ICMC/USP 
+# Minicurso Blockchain e Internet das Coisas SEMCOMP 22 - ICMC/USP 
 
 
 ## Pré-requisitos
