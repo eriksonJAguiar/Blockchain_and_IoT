@@ -105,3 +105,24 @@ Temos os seguintes componentes:
 
 ### Executando 
 
+
+  ```
+    composer archive create -t dir -n .
+  ```
+  
+  
+```
+  composer network install --card PeerAdmin@hlfv1 --archiveFile blockchain-icmc@0.0.1.bna
+ ```
+
+```
+  composer network start --networkName blockchain-icmc --networkVersion 0.0.1 --networkAdmin admin -- networkAdminEnrollSecret adminpw --card PeerAdmin@hlfv1 --file blockchain-icmc.card
+```
+
+```
+  composer card import --file blockchain-icmc.card
+ ```
+```
+  composer network ping --card admin@blockchain-icmc
+```
+
