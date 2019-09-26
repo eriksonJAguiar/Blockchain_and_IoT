@@ -106,6 +106,8 @@ Temos os seguintes componentes:
 ### Executando 
 
 
+##### Blockchain
+
   ```
     composer archive create -t dir -n .
   ```
@@ -125,4 +127,12 @@ Temos os seguintes componentes:
 ```
   composer network ping --card admin@blockchain-icmc
 ```
+
+```
+  composer-rest-server
+```
+
+##### IoT
+
+
 
