@@ -3,12 +3,21 @@
 
 ## Pré-requisitos
 
-* **Docker-ce** -> sudo apt-get install docker-ce
-* **Docker-compose** -> sudo apt-get install docker-compose
-* **NPM** -> sudo apt-get install npm
-* **Hyperledger Composer** -> npm install composer-cli@0.19
-* **Hyperledger Composer Rest** -> npm install composer-rest@0.19
-* **Yo** -> npm install yo@0.19
+* **Componentes básicos** -> 
+  ```
+    curl -O https://hyperledger.github.io/composer/prereqs-ubuntu.sh
+  ```
+  ```
+    chmod u+x prereqs-ubuntu.sh
+   ```
+   ```
+    ./prereqs-ubuntu.sh
+   ```
+   
+* **Hyperledger Composer** -> npm install -g composer-cli@0.20
+* **Hyperledger Composer Rest** -> npm install -g composer-rest-server@0.20
+* **Composer Generator** -> npm install -g generator-hyperledger-composer@0.20
+* **Yo** -> npm install -g yo@0.20
 * **Composer playground** -> usar online [aqui](https://composer-playground.mybluemix.net/editor)
 
 ## Cenário de uso 
