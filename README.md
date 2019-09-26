@@ -1,7 +1,7 @@
 # Minicurso Blockchain e Internet das Coisas SEMCOM 22 - ICMC/USP 
 
 
-## Pré-requistos
+## Pré-requisitos
 
 * **Docker-ce** -> sudo apt-get install docker-ce
 * **Docker-compose** -> sudo apt-get install docker-compose
