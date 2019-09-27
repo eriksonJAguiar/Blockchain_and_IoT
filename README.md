@@ -102,6 +102,10 @@ Temos os seguintes componentes:
 
 ## Modelagem do IoT
 
+* Raspberry Pi 3
+* Sensor de temperatura DH22
+
+
 
 ### Executando 
 
@@ -134,5 +138,5 @@ Temos os seguintes componentes:
 
 ##### IoT
 
-
+* Execute o Script temperatura.py na pasta IoT 
 
