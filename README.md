@@ -105,7 +105,7 @@ Temos os seguintes componentes:
 * Raspberry Pi 3
 * Sensor de temperatura DH22
 
-![Exemplo do modelo]()
+![Exemplo do modelo](./modelagem-IoT/rasp-model.jpg)
 
 
 ### Executando 
