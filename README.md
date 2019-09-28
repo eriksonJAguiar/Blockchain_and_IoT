@@ -47,6 +47,24 @@
   ```
     ./createPeerAdminCard.sh
   ```
+  
+* **Se o Docker apresentar problemas com permissões:**
+
+    ```
+     sudo groupadd docker
+    ```
+
+     ```
+      sudo gpasswd -a ${USUARIO} docker
+     ```
+
+     ```
+      sudo service docker restart
+     ```
+
+     ```
+      newgrp - docker
+     ```
 
 * **Composer playground** -> usar online [aqui](https://composer-playground.mybluemix.net/editor)
 
