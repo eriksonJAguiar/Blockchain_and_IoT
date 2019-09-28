@@ -14,10 +14,10 @@
     ./prereqs-ubuntu.sh
    ```
    
-* **Hyperledger Composer** -> npm install -g composer-cli@0.20
-* **Hyperledger Composer Rest** -> npm install -g composer-rest-server@0.20
-* **Composer Generator** -> npm install -g generator-hyperledger-composer@0.20
-* **Yo** -> npm install -g yo@0.20
+* **Hyperledger Composer** -> npm install -g composer-cli
+* **Hyperledger Composer Rest** -> npm install -g composer-rest-server
+* **Composer Generator** -> npm install -g generator-hyperledger-composer
+* **Yo** -> npm install -g yo
 * **Hyperledger Fabric** ->
 
   ```
