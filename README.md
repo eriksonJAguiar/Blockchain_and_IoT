@@ -5,7 +5,7 @@
 
 * **Componentes básicos** -> 
   ```
-    curl -O https://hyperledger.github.io/composer/prereqs-ubuntu.sh
+    curl -O https://hyperledger.github.io/composer/v0.19/prereqs-ubuntu.sh
   ```
   ```
     chmod u+x prereqs-ubuntu.sh
